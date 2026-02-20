@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+Disallow: /.env
+
+# Crawl delay in seconds
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://imoruralfarmers.com/sitemap.xml
