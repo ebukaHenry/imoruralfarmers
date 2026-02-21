@@ -19,7 +19,7 @@ export default function Header() {
                 />
             </div>
             <h1 className="text-xl font-bold hidden sm:block">IMO Rural Farmers</h1>
-            <h1 className="text-lg font-bold sm:hidden">RF NGO</h1>
+            <h1 className="text-lg font-bold sm:hidden">IRF NGO</h1>
           </div>
 
           {/* Desktop Navigation */}
