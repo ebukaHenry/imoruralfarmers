@@ -13,7 +13,7 @@ export default function About() {
           <div>
             <h3 className="text-2xl font-bold text-primary mb-4">Who We Are</h3>
             <p className="text-gray-700 mb-4">
-              IMO Rural Farmers NGO is a non-profit organization committed to improving the lives of farmers in rural areas. We work directly with farming communities to address challenges and unlock opportunities for sustainable agricultural growth.
+              IMO Rural Farmers Development Foundation NGO is a non-profit organization committed to improving the lives of farmers in rural areas. We work directly with farming communities to address challenges and unlock opportunities for sustainable agricultural growth.
             </p>
             <p className="text-gray-700">
               Through education, resources, and advocacy, we empower farmers to adopt modern techniques while preserving traditional knowledge.
