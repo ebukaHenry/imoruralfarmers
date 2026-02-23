@@ -133,8 +133,8 @@ export default function Contact() {
         Email
       </h4>
       <p className="text-gray-700">
-        <a href="mailto:imoruralfarmersdevelopmentfoun@gmail.com" className="hover:text-primary transition break-all">
-          imoruralfarmersdevelopmentfoun@gmail.com
+        <a href="mailto:imoruralfarmersdevelopmentfoundation@imoruralfarmers.com" className="hover:text-primary transition break-all">
+          Imoruralfarmersdevelopmentfoundation@imoruralfarmers.com
         </a>
       </p>
     </div>
